@@ -1,49 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T10:22:56.753Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/91.0.146 Chrome/85.0.4183.146 Safari/537.36" etag="ic39ggN_GYhc2Wt65b7w" version="14.0.3" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2020-12-16T10:23:42.701Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/91.0.146 Chrome/85.0.4183.146 Safari/537.36" etag="ELXZMnVYS_JgJ8wYpEjC" version="14.0.3" type="github" pages="20">
   <diagram name="9. yêu cầu bổ sung" id="QPlwS9Q-uvHQnWCbr2iE">
     <mxGraphModel dx="1088" dy="594" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="_EbGOkfEkPXK-E-ULXMS-0" />
         <mxCell id="_EbGOkfEkPXK-E-ULXMS-1" parent="_EbGOkfEkPXK-E-ULXMS-0" />
         <mxCell id="_EbGOkfEkPXK-E-ULXMS-2" value="RequestDto" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-1">
-          <mxGeometry x="40" y="80" width="160" height="326" as="geometry">
+          <mxGeometry x="40" y="80" width="160" height="118" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EbGOkfEkPXK-E-ULXMS-3" value="id" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-4" value="applyMethod" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
+        <mxCell id="_EbGOkfEkPXK-E-ULXMS-4" value="dossierStatus" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-5" value="dossierReceivingKind" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
+        <mxCell id="_EbGOkfEkPXK-E-ULXMS-5" value="comment" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-6" value="dossierStatus" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
-          <mxGeometry y="104" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-7" value="applicant" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
-          <mxGeometry y="130" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-8" value="agency" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
-          <mxGeometry y="156" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-9" value="code" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
-          <mxGeometry y="182" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-10" value="procedure" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
-          <mxGeometry y="208" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-11" value="appliedDate" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
-          <mxGeometry y="234" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-12" value="createdDate" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
-          <mxGeometry y="260" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-13" value="dossierFormFile" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
-          <mxGeometry y="286" width="160" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="_EbGOkfEkPXK-E-ULXMS-14" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-2">
-          <mxGeometry y="312" width="160" height="8" as="geometry" />
+          <mxGeometry y="104" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="_EbGOkfEkPXK-E-ULXMS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_EbGOkfEkPXK-E-ULXMS-1" source="_EbGOkfEkPXK-E-ULXMS-16" target="_EbGOkfEkPXK-E-ULXMS-28">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +29,7 @@
             <mxRectangle x="590" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-17" value="updateDossierOnline (Document)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-16">
+        <mxCell id="_EbGOkfEkPXK-E-ULXMS-17" value="updateDossierStatus (Document)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-16">
           <mxGeometry y="41" width="192" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_EbGOkfEkPXK-E-ULXMS-18" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-16">
@@ -87,7 +63,7 @@
         <mxCell id="_EbGOkfEkPXK-E-ULXMS-26" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-23">
           <mxGeometry y="78" width="218" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_EbGOkfEkPXK-E-ULXMS-27" value="updateDossierOnline (RequestDto)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-23">
+        <mxCell id="_EbGOkfEkPXK-E-ULXMS-27" value="updateDossierStatus (RequestDto)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-23">
           <mxGeometry y="86" width="218" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_EbGOkfEkPXK-E-ULXMS-28" value="Document" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="_EbGOkfEkPXK-E-ULXMS-1">
