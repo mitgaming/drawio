@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T08:39:58.079Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/91.0.146 Chrome/85.0.4183.146 Safari/537.36" etag="KZbWYTkjgf4v5yAQv3Yg" version="14.0.3" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2020-12-16T08:40:04.917Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/91.0.146 Chrome/85.0.4183.146 Safari/537.36" etag="_VsS4igRYPSkfIfy_yTL" version="14.0.3" type="github" pages="15">
   <diagram name="5. cập nhật hồ sơ" id="-oFy60qfSzBZxaxA16hI">
     <mxGraphModel dx="1088" dy="594" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="kj7MdpRYlxap1jFFfGvA-0" />
         <mxCell id="kj7MdpRYlxap1jFFfGvA-1" parent="kj7MdpRYlxap1jFFfGvA-0" />
         <mxCell id="kj7MdpRYlxap1jFFfGvA-2" value="RequestDto" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="kj7MdpRYlxap1jFFfGvA-1">
-          <mxGeometry x="40" y="80" width="160" height="320" as="geometry">
+          <mxGeometry x="40" y="80" width="160" height="326" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
