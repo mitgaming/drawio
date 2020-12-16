@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T02:08:39.842Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/91.0.146 Chrome/85.0.4183.146 Safari/537.36" etag="0IXx86pO2rm7_346og2T" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T02:08:50.734Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/91.0.146 Chrome/85.0.4183.146 Safari/537.36" etag="WniIhyaaeKnL6ujMNuAH" version="14.0.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Add form">
     <mxGraphModel dx="907" dy="495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o7nt08adotZNTpTJL4ZL-1" value="Người dùng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="202" y="97" width="22" height="40" as="geometry" />
+          <mxGeometry x="202" y="118" width="22" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o7nt08adotZNTpTJL4ZL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="o7nt08adotZNTpTJL4ZL-2">
           <mxGeometry relative="1" as="geometry">
