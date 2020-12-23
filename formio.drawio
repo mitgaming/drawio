@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T03:24:53.164Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/91.0.146 Chrome/85.0.4183.146 Safari/537.36" etag="eu7nZ7IPH4t2e4V365Gk" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T03:25:27.245Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/91.0.146 Chrome/85.0.4183.146 Safari/537.36" etag="P_2DphFRbRb2MHPbwSfi" version="14.1.1" type="github">
   <diagram id="wV62cqLGpmPlFD4UF0J2" name="Trang-1">
     <mxGraphModel dx="1088" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="800" y="567" width="80" height="46" as="geometry" />
         </mxCell>
         <mxCell id="osnxZgaLNnrK3ZlozPJm-45" value="&amp;nbsp;&quot;defaultValue&quot;: &quot;selectedValue&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="560" width="220" height="60" as="geometry" />
+          <mxGeometry x="520" y="560" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
