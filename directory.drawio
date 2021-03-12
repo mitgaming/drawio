@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T01:31:19.515Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/93.0.148 Chrome/87.0.4280.148 Safari/537.36" etag="AAIDHpqUoVSBX8PUcud-" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T01:32:02.711Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/93.0.148 Chrome/87.0.4280.148 Safari/537.36" etag="RUqKN_pQ3Hat-qN09qTj" version="14.4.7" type="github">
   <diagram id="ElvGM4AqcIiF2CNCAWFF" name="Trang-1">
     <mxGraphModel dx="1280" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -938,6 +938,15 @@
         </mxCell>
         <mxCell id="BvtwiJHm_yUEEP929_Tn-339" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;strokeColor=none;fillColor=none;" vertex="1" parent="BvtwiJHm_yUEEP929_Tn-336">
           <mxGeometry x="-16" y="-16" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="BvtwiJHm_yUEEP929_Tn-340" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;strokeColor=#00CC00;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2138" y="1628" width="14" height="16.42" as="geometry" />
+        </mxCell>
+        <mxCell id="BvtwiJHm_yUEEP929_Tn-341" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;strokeColor=#00CC00;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2362" y="1628" width="14" height="16.42" as="geometry" />
+        </mxCell>
+        <mxCell id="BvtwiJHm_yUEEP929_Tn-342" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;strokeColor=#00CC00;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2584" y="1628" width="14" height="16.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
