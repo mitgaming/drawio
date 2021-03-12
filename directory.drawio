@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T03:39:08.314Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/93.0.148 Chrome/87.0.4280.148 Safari/537.36" etag="WeBeUrXc4nnLNwV1mv6a" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T03:47:22.959Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/93.0.148 Chrome/87.0.4280.148 Safari/537.36" etag="DIfGIBPE7DZi-pcw7O6h" version="14.4.7" type="github">
   <diagram id="ElvGM4AqcIiF2CNCAWFF" name="Trang-1">
     <mxGraphModel dx="1540" dy="628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -677,6 +677,15 @@
         </mxCell>
         <mxCell id="BvtwiJHm_yUEEP929_Tn-608" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;strokeColor=#00CC00;fontSize=14;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="2680.3199999999997" y="1596" width="18.25" height="15.75" as="geometry" />
+        </mxCell>
+        <mxCell id="BvtwiJHm_yUEEP929_Tn-609" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;strokeColor=#00CC00;fontSize=14;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="2460.31" y="1637" width="18.25" height="15.75" as="geometry" />
+        </mxCell>
+        <mxCell id="BvtwiJHm_yUEEP929_Tn-610" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;strokeColor=#00CC00;fontSize=14;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="2234.88" y="1637" width="18.25" height="15.75" as="geometry" />
+        </mxCell>
+        <mxCell id="BvtwiJHm_yUEEP929_Tn-611" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;strokeColor=#00CC00;fontSize=14;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="2680.3199999999997" y="1636" width="18.25" height="15.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
