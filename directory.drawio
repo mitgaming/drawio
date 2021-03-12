@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T02:09:29.763Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/93.0.148 Chrome/87.0.4280.148 Safari/537.36" etag="FP_rt5UXwY3SaG9Ci8iv" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T02:09:45.714Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/93.0.148 Chrome/87.0.4280.148 Safari/537.36" etag="V4Rn51rmCsw6SfYHMGF4" version="14.4.7" type="github">
   <diagram id="ElvGM4AqcIiF2CNCAWFF" name="Trang-1">
     <mxGraphModel dx="1812" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -743,15 +743,6 @@
         </mxCell>
         <mxCell id="BvtwiJHm_yUEEP929_Tn-258" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;strokeColor=#00CC00;fillColor=#FFFFFF;fontSize=14;" vertex="1" parent="BvtwiJHm_yUEEP929_Tn-256">
           <mxGeometry x="5" y="7.25" width="18.25" height="15.75" as="geometry" />
-        </mxCell>
-        <mxCell id="BvtwiJHm_yUEEP929_Tn-259" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;strokeColor=#00CC00;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2137" y="1348" width="14" height="16.42" as="geometry" />
-        </mxCell>
-        <mxCell id="BvtwiJHm_yUEEP929_Tn-260" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;strokeColor=#00CC00;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2361" y="1348" width="14" height="16.42" as="geometry" />
-        </mxCell>
-        <mxCell id="BvtwiJHm_yUEEP929_Tn-261" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;strokeColor=#00CC00;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2583" y="1348" width="14" height="16.42" as="geometry" />
         </mxCell>
         <mxCell id="BvtwiJHm_yUEEP929_Tn-262" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;strokeColor=#00CC00;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2583" y="1388" width="14" height="16.42" as="geometry" />
