@@ -1,1 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T01:51:40.348Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/94.0.202 Chrome/88.0.4324.202 Safari/537.36" version="14.6.0" etag="0b5TXOvYU37CdHnk1HB2" type="github"><diagram id="1yUsNV6T8MDeO2KQQCa4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-15T02:05:49.672Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/94.0.202 Chrome/88.0.4324.202 Safari/537.36" etag="lunUZThRUqilN4nnNaU7" version="14.6.0" type="github">
+  <diagram id="1yUsNV6T8MDeO2KQQCa4" name="Trang-1">
+    <mxGraphModel dx="1088" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fwVB1Ee0wU7MKLbC76Ta-1" target="fwVB1Ee0wU7MKLbC76Ta-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-1" value="Tạo mới timesheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-3" value="bảng timesheet" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-4" value="config 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwVB1Ee0wU7MKLbC76Ta-3">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-5" value="config 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwVB1Ee0wU7MKLbC76Ta-3">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-6" value="config 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwVB1Ee0wU7MKLbC76Ta-3">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-8" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="380" as="sourcePoint" />
+            <mxPoint x="470" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fwVB1Ee0wU7MKLbC76Ta-10" target="fwVB1Ee0wU7MKLbC76Ta-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-10" value="Thêm, sửa, xoá config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="340" as="sourcePoint" />
+            <mxPoint x="780" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-13" value="Chạy tuần tự 3 cái config này" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fwVB1Ee0wU7MKLbC76Ta-12">
+          <mxGeometry x="0.1786" y="2" relative="1" as="geometry">
+            <mxPoint x="-25" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-14" value="bảng timesheetGen" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="190" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-15" value="ngày 1 (chủ nhật) false" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwVB1Ee0wU7MKLbC76Ta-14">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-16" value="ngày 2 (thứ 2) true" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwVB1Ee0wU7MKLbC76Ta-14">
+          <mxGeometry y="52" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-17" value="ngày 3 (thứ 3) true" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwVB1Ee0wU7MKLbC76Ta-14">
+          <mxGeometry y="78" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-18" value="Tính thời gian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-19" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="385" as="sourcePoint" />
+            <mxPoint x="970" y="315" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-21" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fwVB1Ee0wU7MKLbC76Ta-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="350" as="sourcePoint" />
+            <mxPoint x="700" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-23" value="config có trạng thái ntn thì ngày tương ứng ở bảng timesheetGen sẽ giống như thế đấy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="394" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fwVB1Ee0wU7MKLbC76Ta-24" target="fwVB1Ee0wU7MKLbC76Ta-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-31" value="Sẽ tạo đc cái bảng ntn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fwVB1Ee0wU7MKLbC76Ta-30">
+          <mxGeometry x="-0.1595" y="-1" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-24" value="vd: &lt;br&gt;&lt;ul&gt;&lt;li&gt;config 1 cấu hình cho ngày 1 là true&lt;/li&gt;&lt;li&gt;config 2 cấu hình cho các ngày thứ 3 trong tuần là false&lt;/li&gt;&lt;li&gt;config 3 cấu hình ngày 1 là false&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="527" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-25" value="tạo mặc định 100 ngày tất cả true, t7 cn false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-26" value="bảng timesheetGen" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="520" width="190" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-27" value="ngày 1 (chủ nhật) false" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwVB1Ee0wU7MKLbC76Ta-26">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-28" value="ngày 2 (thứ 2) true" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwVB1Ee0wU7MKLbC76Ta-26">
+          <mxGeometry y="52" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fwVB1Ee0wU7MKLbC76Ta-29" value="ngày 3 (thứ 3) false" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fwVB1Ee0wU7MKLbC76Ta-26">
+          <mxGeometry y="78" width="190" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
