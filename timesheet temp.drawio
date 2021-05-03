@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T06:16:48.594Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/94.0.202 Chrome/88.0.4324.202 Safari/537.36" version="14.6.1" etag="sekB7pSajMY3KZKUSfyQ" type="github"><diagram id="OuGkJB0mQFKEZ83nDs1o">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-03T06:22:52.928Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/94.0.202 Chrome/88.0.4324.202 Safari/537.36" etag="e5dvbhbwo4-uilpeY_an" version="14.6.1" type="github">
+  <diagram id="OuGkJB0mQFKEZ83nDs1o" name="Trang-1">
+    <mxGraphModel dx="10304" dy="7122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8VdhUzicEKDY-blIBhA6-1" value="Tạo ngày case sớm giờ" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-8218" y="-5569" width="200" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="8VdhUzicEKDY-blIBhA6-2" value="Giờ bắt đầu/Due nhỏ hơn giờ bđ &lt;br&gt;--&amp;gt; set lại = giờ bđ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="8VdhUzicEKDY-blIBhA6-1">
+          <mxGeometry x="8" y="41" width="184" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="8VdhUzicEKDY-blIBhA6-3" value="Tạo ngày case nghỉ giữa giờ" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-7960" y="-5569" width="216" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="8VdhUzicEKDY-blIBhA6-4" value="Giờ bắt đầu/Due rơi vào khoản&amp;nbsp;&lt;br&gt;giữa giờ --&amp;gt; set lại = đầu giờ tiếp theo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="8VdhUzicEKDY-blIBhA6-3">
+          <mxGeometry x="2.5" y="37" width="211" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="8VdhUzicEKDY-blIBhA6-5" value="Tạo ngày case quá giờ" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-7685" y="-5569" width="216" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="8VdhUzicEKDY-blIBhA6-6" value="Giờ bắt đầu/Due quá giờ kết thúc&lt;br&gt;&amp;nbsp;--&amp;gt; set lại = đầu giờ ngày tiếp theo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="8VdhUzicEKDY-blIBhA6-5">
+          <mxGeometry x="10.5" y="37" width="196" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="8VdhUzicEKDY-blIBhA6-7" value="Check ngày nghỉ" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-7685" y="-5418" width="200" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="8VdhUzicEKDY-blIBhA6-8" value="return true/false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="8VdhUzicEKDY-blIBhA6-7">
+          <mxGeometry x="53" y="41" width="94" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
