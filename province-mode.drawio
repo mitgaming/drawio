@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T03:25:58.466Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.100 Safari/537.36" etag="STJpWk7wgJKCst8ej7bw" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T03:26:19.759Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.100 Safari/537.36" etag="juYADLzdrHjjo2xYaAmk" version="14.6.9" type="github">
   <diagram id="19DuVNCq5stD1BeIMGDt" name="Trang-1">
-    <mxGraphModel dx="942" dy="3822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="3914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fzXnjSCQGd9v07Nm6Kkv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fzXnjSCQGd9v07Nm6Kkv-1" target="fzXnjSCQGd9v07Nm6Kkv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fzXnjSCQGd9v07Nm6Kkv-1" value="onInit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fzXnjSCQGd9v07Nm6Kkv-1" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;color: #dcdcaa&quot;&gt;ngOnInit&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="-800" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fzXnjSCQGd9v07Nm6Kkv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fzXnjSCQGd9v07Nm6Kkv-2" target="fzXnjSCQGd9v07Nm6Kkv-4">
