@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T07:04:41.586Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.100 Safari/537.36" etag="TV0K5kPBGcgIgVhGxnTT" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T07:05:37.459Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.100 Safari/537.36" etag="6-24jUO8i3hhC55sUQ5F" version="15.7.4" type="github">
   <diagram id="7NeZhMhzlDyfyFx5x0S0" name="Trang-1">
-    <mxGraphModel dx="1884" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2691" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,16 +44,15 @@
           <mxGeometry x="324.75" y="1090" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WZIwgjO6Ospco73MhqYw-24" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="1020" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WZIwgjO6Ospco73MhqYw-1" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#000066;" vertex="1" parent="WZIwgjO6Ospco73MhqYw-24">
-          <mxGeometry x="5" width="40" height="40" as="geometry" />
+          <mxGeometry x="364.75" y="750" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZIwgjO6Ospco73MhqYw-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Client&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WZIwgjO6Ospco73MhqYw-24">
           <mxGeometry y="40" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WZIwgjO6Ospco73MhqYw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000066;strokeWidth=2;" edge="1" parent="1" source="WZIwgjO6Ospco73MhqYw-1" target="WZIwgjO6Ospco73MhqYw-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WZIwgjO6Ospco73MhqYw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000066;strokeWidth=2;" edge="1" parent="1" target="WZIwgjO6Ospco73MhqYw-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="810" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WZIwgjO6Ospco73MhqYw-28" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#000066;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="537" y="1020" width="40" height="40" as="geometry" />
@@ -645,6 +644,9 @@
         </mxCell>
         <mxCell id="WZIwgjO6Ospco73MhqYw-872" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#000066;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1770.09" y="985" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZIwgjO6Ospco73MhqYw-1" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#000066;" vertex="1" parent="1">
+          <mxGeometry x="369.75" y="750" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
