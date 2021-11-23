@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T07:18:22.972Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.100 Safari/537.36" etag="B-d5QpXt5wRgFrzJkhOc" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T07:19:14.303Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.100 Safari/537.36" etag="AEHNfj_x9lIdudnLr-D7" version="15.7.4" type="github">
   <diagram id="7NeZhMhzlDyfyFx5x0S0" name="Trang-1">
     <mxGraphModel dx="1570" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -814,7 +814,10 @@
           <mxGeometry width="120" height="25.15" as="geometry" />
         </mxCell>
         <mxCell id="WZIwgjO6Ospco73MhqYw-722" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;Kafka Cluster&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#407D00;strokeColor=#1A3300;strokeWidth=1;fillColor=#FFFCF5;arcSize=4;" vertex="1" parent="WZIwgjO6Ospco73MhqYw-719">
-          <mxGeometry x="16.09" y="43" width="87.82" height="1397" as="geometry" />
+          <mxGeometry x="16.09" y="43" width="87.82" height="927" as="geometry" />
+        </mxCell>
+        <mxCell id="WZIwgjO6Ospco73MhqYw-951" value="&lt;font color=&quot;#1a1a1a&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;minio&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#407D00;strokeColor=#1A3300;strokeWidth=1;fillColor=#FFFCF5;arcSize=4;" vertex="1" parent="WZIwgjO6Ospco73MhqYw-719">
+          <mxGeometry x="16.04" y="993" width="87.82" height="447" as="geometry" />
         </mxCell>
         <mxCell id="WZIwgjO6Ospco73MhqYw-874" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#000066;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1000" width="40.25" height="10" as="geometry" />
