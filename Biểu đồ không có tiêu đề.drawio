@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T04:34:22.048Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.100 Safari/537.36" etag="AS2zHMn5dpPBJGTgINpd" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T04:35:52.204Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.100 Safari/537.36" etag="xqLSlxgo8O88H7aqKisK" version="15.7.4" type="github">
   <diagram id="7NeZhMhzlDyfyFx5x0S0" name="Trang-1">
-    <mxGraphModel dx="1108" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,18 @@
         </mxCell>
         <mxCell id="WZIwgjO6Ospco73MhqYw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000066;strokeWidth=2;" edge="1" parent="1" source="WZIwgjO6Ospco73MhqYw-1" target="WZIwgjO6Ospco73MhqYw-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WZIwgjO6Ospco73MhqYw-27" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WZIwgjO6Ospco73MhqYw-28" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#000066;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="537" y="1020" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZIwgjO6Ospco73MhqYw-29" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#000066;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="443.75" y="1020" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZIwgjO6Ospco73MhqYw-30" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#000066;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1035" width="100" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
