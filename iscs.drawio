@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T03:56:31.710Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.116 Safari/537.36" etag="3PcmAHOCzRx6TZvBi1hG" version="17.1.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-21T03:56:51.996Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.116 Safari/537.36" etag="qvHRR3SiFkDPHcjKyXOQ" version="17.1.3" type="github" pages="12">
   <diagram id="YDbAIs2nPjnxUMnrsH2y" name="Trang-1">
     <mxGraphModel dx="989" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
         <mxCell id="QsZazQEfGRNAr6pZbK-D-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="947" y="1131" width="307" height="264" as="geometry" />
         </mxCell>
-        <mxCell id="QsZazQEfGRNAr6pZbK-D-5" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;Hệ thống định danh và danh mục dùng chung (ISCS)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4A4A4A;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="QsZazQEfGRNAr6pZbK-D-5" value="Hệ thống định danh và danh mục dùng chung (ISCS)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4A4A4A;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="964" y="1356" width="273" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QsZazQEfGRNAr6pZbK-D-9" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -443,7 +443,7 @@
         <mxCell id="QsZazQEfGRNAr6pZbK-D-34" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1329" y="1131" width="239" height="265" as="geometry" />
         </mxCell>
-        <mxCell id="QsZazQEfGRNAr6pZbK-D-35" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;Các ứng dụng tích hợp&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4A4A4A;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="QsZazQEfGRNAr6pZbK-D-35" value="Các ứng dụng tích hợp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4A4A4A;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="1346" y="1356" width="206" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QsZazQEfGRNAr6pZbK-D-36" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
