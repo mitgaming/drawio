@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T03:55:12.419Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.116 Safari/537.36" etag="COHwCkjPfoaswbxyY5Rx" version="17.1.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-21T03:55:23.785Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.116 Safari/537.36" etag="J4KVlwd8S0em-l5MwPt6" version="17.1.3" type="github" pages="12">
   <diagram id="YDbAIs2nPjnxUMnrsH2y" name="Trang-1">
     <mxGraphModel dx="989" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
             <mxPoint x="1329" y="1248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QsZazQEfGRNAr6pZbK-D-37" value="&lt;font style=&quot;font-size: 16px&quot;&gt;API&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="QsZazQEfGRNAr6pZbK-D-37" value="&lt;font style=&quot;font-size: 14px&quot;&gt;API&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1223" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QsZazQEfGRNAr6pZbK-D-38" value="&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Ứng dụng công dân Việt Nam&lt;br&gt;2.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=59;tabHeight=6;tabPosition=left;html=1;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
