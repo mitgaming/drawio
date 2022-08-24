@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T04:41:20.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.84 Safari/537.36" etag="-2ZH8gCAAcABdVHkEV6q" version="20.2.5" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-08-24T04:41:47.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.84 Safari/537.36" etag="LFgPOcnIxKyOl-QJ1zYo" version="20.2.5" type="github" pages="16">
   <diagram id="YDbAIs2nPjnxUMnrsH2y" name="iscs2">
     <mxGraphModel dx="1050" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="_ryeKOipuQITKXEtM85--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="824" y="510" width="644" height="489" as="geometry" />
         </mxCell>
-        <mxCell id="_ryeKOipuQITKXEtM85--13" value="Các thành phần của ISCS2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4A4A4A;fontStyle=3;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="_ryeKOipuQITKXEtM85--13" value="Các thành phần của CDP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4A4A4A;fontStyle=3;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1051" y="962" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0mwN60Ps30yAKNXCQcVi-4" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -250,7 +250,7 @@
         <mxCell id="0mwN60Ps30yAKNXCQcVi-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1501" y="510" width="217" height="488" as="geometry" />
         </mxCell>
-        <mxCell id="0mwN60Ps30yAKNXCQcVi-153" value="Các thành phần ISCS2 tích hợp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4A4A4A;fontStyle=3;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="0mwN60Ps30yAKNXCQcVi-153" value="Các thành phần CDP tích hợp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4A4A4A;fontStyle=3;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1517" y="962" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0mwN60Ps30yAKNXCQcVi-154" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=87;tabHeight=20;tabPosition=left;html=1;fontSize=13;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
