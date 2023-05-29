@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T04:31:46.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.0.6" etag="-hKpO2rLieJA1wipfrJd" type="github"><diagram name="Trang-1" id="VSBVw1oFeF8lamYCPIgN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-29T04:42:55.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YiUk_aWcO37yVBFafOD1" version="21.0.6" type="github">
+  <diagram name="Trang-1" id="VSBVw1oFeF8lamYCPIgN">
+    <mxGraphModel dx="1356" dy="533" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FojEHKLDrsVdkvdOjXkh-1" target="FojEHKLDrsVdkvdOjXkh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-6" value="Phân Quyền" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FojEHKLDrsVdkvdOjXkh-5">
+          <mxGeometry x="-0.1457" relative="1" as="geometry">
+            <mxPoint x="7" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-1" value="Danh sách &lt;b&gt;Quyền&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="118" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FojEHKLDrsVdkvdOjXkh-2" target="FojEHKLDrsVdkvdOjXkh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-2" value="Thêm&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Quyền&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="226" width="153" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-4" value="&lt;b&gt;Nhóm&amp;nbsp;Quyền&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="405" y="236" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
