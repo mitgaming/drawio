@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T04:45:15.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qKG_7cu3Ojv46vu3A350" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T04:51:22.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="f71fgRq4O78qGmHY5-i6" version="21.0.6" type="github">
   <diagram name="Trang-1" id="VSBVw1oFeF8lamYCPIgN">
     <mxGraphModel dx="2087" dy="941" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry x="-0.1457" relative="1" as="geometry">
             <mxPoint x="7" y="-9" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FojEHKLDrsVdkvdOjXkh-1" target="FojEHKLDrsVdkvdOjXkh-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FojEHKLDrsVdkvdOjXkh-1" value="Danh sách &lt;b&gt;Quyền&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="118" y="236" width="120" height="60" as="geometry" />
@@ -36,14 +39,29 @@
         <mxCell id="FojEHKLDrsVdkvdOjXkh-9" value="Phân Quyền" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="607.0033333333333" y="256" as="geometry" />
         </mxCell>
-        <mxCell id="FojEHKLDrsVdkvdOjXkh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FojEHKLDrsVdkvdOjXkh-10" target="FojEHKLDrsVdkvdOjXkh-12">
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FojEHKLDrsVdkvdOjXkh-10" target="FojEHKLDrsVdkvdOjXkh-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FojEHKLDrsVdkvdOjXkh-10" value="Lấy token" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="941" y="226" width="153" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FojEHKLDrsVdkvdOjXkh-12" value="Danh sách&amp;nbsp;&lt;br&gt;&lt;b&gt;Quyền&lt;/b&gt;&lt;br&gt;của người dùng&lt;br&gt;(Không phải nhóm quyền)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1226" y="213" width="182" height="106" as="geometry" />
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-12" value="Danh sách&amp;nbsp;&lt;br&gt;&lt;b&gt;Quyền&lt;/b&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1274" y="326" width="182" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FojEHKLDrsVdkvdOjXkh-14" target="FojEHKLDrsVdkvdOjXkh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-14" value="&lt;b&gt;Danh mục động&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="118" y="451" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-16" value="Cấu hình Quyền" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180.00000000000006" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FojEHKLDrsVdkvdOjXkh-17" target="FojEHKLDrsVdkvdOjXkh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FojEHKLDrsVdkvdOjXkh-17" value="Lấy thông tin&amp;nbsp;&lt;br&gt;&lt;b&gt;Quyền&amp;nbsp;&lt;/b&gt;&lt;br&gt;đã phân" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="941" y="441" width="153" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
