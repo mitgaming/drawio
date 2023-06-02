@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T08:27:45.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4bWkL5S530uniG_czIuK" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T08:31:34.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WaJqhMAFwsMiREbVXCFB" version="21.3.5" type="github">
   <diagram name="Trang-1" id="pGlWDRRR4ceFcZ0pKpWa">
-    <mxGraphModel dx="1114" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1514" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Yqm2gLU7yoKj6SA_bdH-2" target="4Yqm2gLU7yoKj6SA_bdH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-2" value="Công ty CNTT-VNPT IT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110.5" y="284" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-3" value="id:&amp;nbsp;0000000000000000abc0001" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4Yqm2gLU7yoKj6SA_bdH-2">
+          <mxGeometry y="30" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Yqm2gLU7yoKj6SA_bdH-6" target="4Yqm2gLU7yoKj6SA_bdH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-6" value="Trung tâm VNPT IT KV5" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="391" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-7" value="id:&amp;nbsp;0000000000000000abc0011" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4Yqm2gLU7yoKj6SA_bdH-6">
+          <mxGeometry y="30" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Yqm2gLU7yoKj6SA_bdH-8" target="4Yqm2gLU7yoKj6SA_bdH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-8" value="Phòng PTGP" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="493" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-9" value="id:&amp;nbsp;0000000000000000abc0101" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4Yqm2gLU7yoKj6SA_bdH-8">
+          <mxGeometry y="30" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-10" value="Tổ 2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="594" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Yqm2gLU7yoKj6SA_bdH-11" value="id:&amp;nbsp;0000000000000000abc1001" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4Yqm2gLU7yoKj6SA_bdH-10">
+          <mxGeometry y="30" width="276" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
