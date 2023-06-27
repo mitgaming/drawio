@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:18:45.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PK1PEVlTKMTL7EtY7OBt" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:19:47.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yetkZoNbr7trjmFZqpwL" version="21.5.0" type="github">
   <diagram name="Trang-1" id="-TMG5wRtHB3KvAYoaKKq">
-    <mxGraphModel dx="2606" dy="1231" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,9 @@
               <mxPoint x="865" y="1125" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Eu5K6g9AHoXGdHCVSNs4-42" value="Màn hình này code rồi&lt;br&gt;route: /sign-up" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="966" y="1160" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
